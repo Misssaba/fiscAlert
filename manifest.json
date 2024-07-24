@@ -1,6 +1,6 @@
 {
-    "name": "stg_ccof",
-    "short_name": "stg_ccof",
+    "name": "FiscAlert",
+    "short_name": "FiscAlert",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
