@@ -39260,7 +39260,7 @@ q=A.mr().a
 q.w=r
 q.Wb()}f.hb(c,B.ao.cC([A.b([!0],t.HZ)]))
 break}return
-case"fiscalert/flutter/assets":f.vB(B.ae.e1(0,A.q2(b.buffer,0,null)),c)
+case"flutter/assets":f.vB(B.ae.e1(0,A.q2(b.buffer,0,null)),c)
 return
 case"flutter/platform":s=B.bm.jL(b)
 switch(s.a){case"SystemNavigator.pop":f.e.h(0,0).gCj().xg().bD(0,new A.adD(f,c),t.P)
