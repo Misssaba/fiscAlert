@@ -9,7 +9,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6b62e9368e8542f588413dcf7266a769
 "assets/assets/Picture1.jpg": "f0f28b848a87820cf7ea35bee9aa411d",
 "assets/assets/Poppins-Light.ttf": "fcc40ae9a542d001971e53eaed948410",
 "assets/assets/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
-"assets/FontManifest.json": "7b34459126f45c21cad2975186350abf",
+"fiscalert/assets/FontManifest.json": "7b34459126f45c21cad2975186350abf",
 "assets/fonts/MaterialIcons-Regular.otf": "11aebfca87d30d549225da32252dc550",
 "assets/NOTICES": "c9b00b1da42af6887da9e2ae05b97621",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
