@@ -39260,7 +39260,7 @@ q=A.mr().a
 q.w=r
 q.Wb()}f.hb(c,B.ao.cC([A.b([!0],t.HZ)]))
 break}return
-case"flutter/assets":f.vB(B.ae.e1(0,A.q2(b.buffer,0,null)),c)
+case"fiscalert/flutter/assets":f.vB(B.ae.e1(0,A.q2(b.buffer,0,null)),c)
 return
 case"flutter/platform":s=B.bm.jL(b)
 switch(s.a){case"SystemNavigator.pop":f.e.h(0,0).gCj().xg().bD(0,new A.adD(f,c),t.P)
@@ -50615,7 +50615,7 @@ r=s==null?null:s.content
 s=r==null
 if(!s)self.window.console.warn("The `assetBase` meta tag is now deprecated.\nUse engineInitializer.initializeEngine(config) instead.\nSee: https://docs.flutter.dev/development/platform-integration/web/initialization")
 q=this.b=s?"":r
-s=q}return A.a5o(B.lq,s+"fiscalert/assets/"+a,B.ae,!1)}}
+s=q}return A.a5o(B.lq,s+"assets/"+a,B.ae,!1)}}
 A.aJW.prototype={
 $1(a){return this.a3k(a)},
 $0(){return this.$1(null)},
@@ -85704,7 +85704,7 @@ $S:64}
 A.akm.prototype={
 mN(a,b){var s,r=B.aW.cE(A.aId(null,A.a5o(B.lq,b,B.ae,!1),null).e),q=$.fX.f1$
 q===$&&A.a()
-s=q.zk(0,"flutter/fiscalert/assets",A.a9v(r)).bD(0,new A.akn(b),t.V4)
+s=q.zk(0,"fiscalert/flutter/assets",A.a9v(r)).bD(0,new A.akn(b),t.V4)
 return s},
 DS(a){return this.axU(a)},
 axU(a){var s=0,r=A.S(t.SG),q,p=this,o,n
@@ -107803,7 +107803,7 @@ $S:133}
 A.u1.prototype={
 W(){return new A.a0w(t.PG.a($.iR().fA("Users",!1,t.z)),B.j)}}
 A.a0w.prototype={
-F(a){var s,r,q,p,o=this,n=null,m=o.f,l=A.qz(n,new A.DE(new A.xC(A.b6e(n,n,new A.C5("assets/Picture1.jpg",n,n)),B.EB,n),n),!1,n),k=$.aQh(),j=t.w,i=A.a3(a,n,j).w.a.a<600?B.al:B.w,h=A.ai(u.Q,n,n,n,A.a3(a,n,j).w.a.a<600?A.C(a).p3.b.f_(B.c1):A.C(a).p3.r.f_(B.c1),n,n,n),g=A.ai("Outil de routine",n,n,n,A.C(a).p3.w.asL(5),n,n,n),f=A.a3(a,n,j).w.a.a<600?A.a3(a,n,j).w.a.a:A.a3(a,n,j).w.a.a/4
+F(a){var s,r,q,p,o=this,n=null,m=o.f,l=A.qz(n,new A.DE(new A.xC(A.b6e(n,n,new A.C5("fiscalert/assets/Picture1.jpg",n,n)),B.EB,n),n),!1,n),k=$.aQh(),j=t.w,i=A.a3(a,n,j).w.a.a<600?B.al:B.w,h=A.ai(u.Q,n,n,n,A.a3(a,n,j).w.a.a<600?A.C(a).p3.b.f_(B.c1):A.C(a).p3.r.f_(B.c1),n,n,n),g=A.ai("Outil de routine",n,n,n,A.C(a).p3.w.asL(5),n,n,n),f=A.a3(a,n,j).w.a.a<600?A.a3(a,n,j).w.a.a:A.a3(a,n,j).w.a.a/4
 f=A.dx(A.h_(!1,n,A.h6("Votre nom d'utilisateur"),!1,n,n,n,n,n,1,!1,n,n,n,new A.aC5(),n,n,B.a8,n,new A.aC6(a)),n,f)
 j=A.a3(a,n,j).w.a.a<600?A.a3(a,n,j).w.a.a:A.a3(a,n,j).w.a.a/4
 s=o.d
