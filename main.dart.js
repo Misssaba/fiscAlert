@@ -913,7 +913,7 @@ var $async$a7I=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:n={}
 l=t.Lk
 s=3
-return A.H(A.BA(a.yY("FontManifest.json")),$async$a7I)
+return A.H(A.BA(a.yY("fiscalert/FontManifest.json")),$async$a7I)
 case 3:m=l.a(c)
 if(!m.gM5()){$.eR().$1("Font manifest does not exist at `"+m.a+"` - ignoring.")
 q=new A.DP(A.b([],t.z8))
@@ -23890,7 +23890,7 @@ akm:function akm(a,b,c){this.a=a
 this.b=b
 this.c=c},
 akn:function akn(a){this.a=a},
-b1E(a){return a.axY("AssetManifest.bin.json",new A.a8D(),t.jo)},
+b1E(a){return a.axY("fiscalert/AssetManifest.bin.json",new A.a8D(),t.jo)},
 a8D:function a8D(){},
 vr:function vr(a,b){this.a=a
 this.b=b},
