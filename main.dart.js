@@ -913,7 +913,7 @@ var $async$a7I=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:n={}
 l=t.Lk
 s=3
-return A.H(A.BA(a.yY("FontManifest.json")),$async$a7I)
+return A.H(A.BA(a.yY("fiscalert/assets/FontManifest.json")),$async$a7I)
 case 3:m=l.a(c)
 if(!m.gM5()){$.eR().$1("Font manifest does not exist at `"+m.a+"` - ignoring.")
 q=new A.DP(A.b([],t.z8))
@@ -50615,7 +50615,7 @@ r=s==null?null:s.content
 s=r==null
 if(!s)self.window.console.warn("The `assetBase` meta tag is now deprecated.\nUse engineInitializer.initializeEngine(config) instead.\nSee: https://docs.flutter.dev/development/platform-integration/web/initialization")
 q=this.b=s?"":r
-s=q}return A.a5o(B.lq,s+"fiscalert/assets/"+a,B.ae,!1)}}
+s=q}return A.a5o(B.lq,s+"assets/"+a,B.ae,!1)}}
 A.aJW.prototype={
 $1(a){return this.a3k(a)},
 $0(){return this.$1(null)},
