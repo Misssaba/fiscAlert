@@ -36,8 +36,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "6b62e9368e8542f588413dcf7266a769
 // start.
 const CORE = ["main.dart.js",
 "index.html",
-"fiscalert/assets/AssetManifest.json",
-"fiscalert/assets/FontManifest.json"];
+"assets/AssetManifest.json",
+"assets/FontManifest.json"];
 
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
