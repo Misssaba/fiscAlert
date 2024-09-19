@@ -4,12 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"assets/AssetManifest.bin": "6b62e9368e8542f588413dcf7266a769",
-"fiscalert/assets/AssetManifest.bin.json": "8d63d8d8e643faddecdef0524964de4e",
+"assets/AssetManifest.bin.json": "8d63d8d8e643faddecdef0524964de4e",
 "assets/AssetManifest.json": "c371b641bfffde71cf9fdfc7dd6b6b22",
 "assets/assets/Picture1.jpg": "f0f28b848a87820cf7ea35bee9aa411d",
 "assets/assets/Poppins-Light.ttf": "fcc40ae9a542d001971e53eaed948410",
 "assets/assets/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
-"fiscalert/assets/FontManifest.json": "7b34459126f45c21cad2975186350abf",
+"assets/FontManifest.json": "7b34459126f45c21cad2975186350abf",
 "assets/fonts/MaterialIcons-Regular.otf": "11aebfca87d30d549225da32252dc550",
 "assets/NOTICES": "c9b00b1da42af6887da9e2ae05b97621",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
@@ -36,8 +36,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "6b62e9368e8542f588413dcf7266a769
 // start.
 const CORE = ["main.dart.js",
 "index.html",
-"assets/AssetManifest.json",
-"assets/FontManifest.json"];
+"fiscalert/assets/AssetManifest.json",
+"fiscalert/assets/FontManifest.json"];
 
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
