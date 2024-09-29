@@ -50615,7 +50615,7 @@ r=s==null?null:s.content
 s=r==null
 if(!s)self.window.console.warn("The `assetBase` meta tag is now deprecated.\nUse engineInitializer.initializeEngine(config) instead.\nSee: https://docs.flutter.dev/development/platform-integration/web/initialization")
 q=this.b=s?"":r
-s=q}return A.a5o(B.lq,s+"fiscalert/assets/"+a,B.ae,!1)}}
+s=q}return A.a5o(B.lq,s+"assets/"+a,B.ae,!1)}}
 A.aJW.prototype={
 $1(a){return this.a3k(a)},
 $0(){return this.$1(null)},
@@ -106202,26 +106202,27 @@ $S:150}
 A.aty.prototype={
 $1(a){var s=0,r=A.S(t.P),q=this,p,o,n,m,l
 var $async$$1=A.T(function(b,c){if(b===1)return A.P(c,r)
-while(true)switch(s){case 0:l=q.a
-l.L(new A.atq(l))
-s=2
+while(true)switch(s){case 0:s=2
 return A.H(new A.cc().oD(),$async$$1)
-case 2:p=c
-o=a!=null&&J.b0Y(p,new A.atr(a))
-n=q.b
-s=o?3:5
+case 2:l=c
+s=a!=null?3:4
 break
-case 3:o=J.L(a)
+case 3:p=q.a
+p.L(new A.atq(p))
+o=q.b
+s=J.b0Y(l,new A.atr(a))?5:7
+break
+case 5:n=J.L(a)
+s=8
+return A.H(new A.cc().C8(a,n.h(a,"id")),$async$$1)
+case 8:m=t.z
+s=9
+return A.H(new A.cc().hK(A.iP(10),"Ajout utilisateur",J.J(p.a.c,"id"),A.au(["Element",n.h(a,"id")],m,m)),$async$$1)
+case 9:p.L(new A.ats(p,o))
 s=6
-return A.H(new A.cc().C8(a,o.h(a,"id")),$async$$1)
-case 6:m=t.z
-s=7
-return A.H(new A.cc().hK(A.iP(10),"Ajout utilisateur",J.J(l.a.c,"id"),A.au(["Element",o.h(a,"id")],m,m)),$async$$1)
-case 7:l.L(new A.ats(l,n))
-s=4
 break
-case 5:l.L(new A.att(l,n))
-case 4:return A.Q(null,r)}})
+case 7:p.L(new A.att(p,o))
+case 6:case 4:return A.Q(null,r)}})
 return A.R($async$$1,r)},
 $S:239}
 A.atq.prototype={
