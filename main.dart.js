@@ -50616,7 +50616,7 @@ r=s==null?null:s.content
 s=r==null
 if(!s)self.window.console.warn("The `assetBase` meta tag is now deprecated.\nUse engineInitializer.initializeEngine(config) instead.\nSee: https://docs.flutter.dev/development/platform-integration/web/initialization")
 q=this.b=s?"":r
-s=q}return A.a5o(B.lq,s+"assets/"+a,B.ae,!1)}}
+s=q}return A.a5o(B.lq,s+"fiscalert/assets/"+a,B.ae,!1)}}
 A.aJW.prototype={
 $1(a){return this.a3k(a)},
 $0(){return this.$1(null)},
